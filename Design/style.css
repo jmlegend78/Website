@@ -1,0 +1,201 @@
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+header{
+	background-color: #35424a;
+	color: #ffffff;
+	padding-top: -35px;
+	min-height: 20px;
+	border-bottom: #47B7A0 5px solid;
+}
+
+header a{
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+header ul{
+	margin: 0;
+	padding: 0;
+}
+
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+header #groupname{
+	float: left;
+	font-size: 20px;
+}
+
+header #groupname h1{
+	margin-top: 17px;
+}
+
+header nav{
+	float: right;
+	margin-top: 22px;
+}
+
+header .highlight, header .current a{
+	color: #47B7A0;
+	font-weight: bold;
+}
+
+header a:hover{
+	color: gray;
+	font-weight: bold;
+}
+
+
+footer {
+	padding: 11px;
+	margin-top: 225px;
+	color: #ffffff;
+	background-color: #47B7A0;
+	text-align: center;
+	border-top: #35424a 5px solid;
+}
+.HOMES{
+	background-image: url("/Pics/tekpi.jpg");
+	width: 1500px;
+	height: 600px;
+}
+.HOMES h2{
+	text-align: center;
+	margin-top: 330px;
+	color: #64E8A2;
+	border: solid 5px #E3F1EA;
+	width: 550px;
+	height: 35px;
+	text-align: center;
+	margin-left: 490px;
+	
+}
+ 
+.contacts {
+	background-image: url("/Pics/bg.gif");
+	width: 1500px;
+	height: 600px;
+}
+.contacts h2{
+	color: #BEDECD;
+	text-align: center;
+	font-size: 32px;
+	border: 5px solid #C2DFFF;
+	width: 600px;
+	margin-left: 450px;
+}
+.contactsFooter {
+	padding: 11px;
+	margin-top: 320px;
+	color: #ffffff;
+	background-color: #47B7A0;
+	text-align: center;
+	border-top: #35424a 5px solid;
+
+}
+.about {
+	background-image: url("/Pics/bg.gif");
+	width: 1500px;
+	height: 600px;
+
+}
+.about h2{
+	color: #BEDECD;
+	text-align: center;
+	font-size: 32px;
+	border: 5px solid #C2DFFF;
+	width: 600px;
+	margin-left: 450px;
+}
+.aboutFooter {
+
+	padding: 11px;
+	margin-top: 170px;
+	color: #ffffff;
+	background-color: #47B7A0;
+	text-align: center;
+	border-top: #35424a 5px solid;
+
+}
+.Login {
+	background-image: url("/Pics/bg.gif");
+	width: 1500px;
+	height: 600px;
+
+
+}
+.LoginFooter {
+
+	padding: 11px;
+	margin-top: 200px;
+	color: #ffffff;
+	background-color: #47B7A0;
+	text-align: center;
+	border-top: #35424a 5px solid;
+
+}
+p {
+
+color: #BEDECD;
+font-size: 32px;
+text-align: center;
+letter-spacing: 0.1em;
+border:5px solid #C2DFFF;
+width: 500px;
+height: 300px;
+margin-left: 450px;
+	border-bottom-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+}
+button {
+
+	width: 80px;
+	height: 30px;
+	background-color: #C2DFFF;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.Register {
+	background-image: url("/Pics/bg.gif");
+	width: 1500px;
+	height: 600px;
+
+
+}
+.RegisterFooter {
+
+	padding: 11px;
+	margin-top: 200px;
+	color: #ffffff;
+	background-color: #47B7A0;
+	text-align: center;
+	border-top: #35424a 5px solid;
+
+}
+h4 {
+
+	color: #95B9C7;
+font-size: 30px;
+letter-spacing: 0.1em;
+border:5px solid #C2DFFF;
+width: 700px;
+height: 400px;
+margin-left: 380px;
+text-align: center;
+	border-bottom-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+	border-top-left-radius: 30px;
+}
